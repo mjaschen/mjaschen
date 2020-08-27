@@ -4,7 +4,7 @@
 🚵🏻 Riding mountainbikes, roadbikes, and gravelbikes.<br>
 🌳 Currently in the process of learning the art of woodworking.<br>
 📷️ Creating memories using cameras.<br>
-🎧️ Podcast host at “Pokal oder Spital”, a popular mountainbike-centric podcast for the German speaking world.
+🎧️ Podcast host at “[Pokal oder Spital](https://www.mtb-news.de/news/category/podcast/)”, a popular mountainbike-centric podcast for the German speaking world.
 
 ## Get in Touch
 
