@@ -14,8 +14,4 @@
 
 ## Get in Touch
 
-- Links: [marcusjaschen.com](https://marcusjaschen.com)
-- Personal site: [marcusjaschen.de](https://www.marcusjaschen.de/)
-- Twitter: [@0xffff](https://twitter.com/0xffff)
-- Strava: [mjaschen](https://www.strava.com/athletes/mjaschen)
-- MTB-News.de: [@Marcus](https://www.mtb-news.de/forum/m/marcus.257/)
+→ [marcusjaschen.com](https://marcusjaschen.com)
