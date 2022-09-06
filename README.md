@@ -14,4 +14,4 @@
 
 ## Get in Touch
 
-→ [marcusjaschen.com](https://marcusjaschen.com)
+🔗 **[marcusjaschen.com](https://marcusjaschen.com)**
