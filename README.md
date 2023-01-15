@@ -1,6 +1,6 @@
 # Marcus Jaschen
 
-👷 Keeping things running at MTB-News.de, Rennrad-News.de, eMTB-News.de and Nimms-Rad.de. Used the last 20+ years to accumulate lots of knowledge of PHP, web technologies, and on how to run Linux servers.
+👷 Keeping things running at [MTB-News.de](https://www.mtb-news.de), [Rennrad-News.de](https://www.rennrad-news.de), [eMTB-News.de](https://www.emtb-news.de) and [Nimms-Rad.de](https://www.nimms-rad.de). Used the last 20+ years to accumulate lots of knowledge of PHP, web technologies, and on how to run Linux servers.
 
 🚵🏻 Riding mountainbikes, roadbikes, and gravelbikes; not necessarily in that order.
 
